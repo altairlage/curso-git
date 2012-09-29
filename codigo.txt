@@ -1,7 +1,6 @@
 essa é uma linha
 essa é outra linha
-uma linha diferente
-outra linha na quarta linha
+ainda outra linha
 e outra
 outra linha
 O texto vai comecar aqui:
