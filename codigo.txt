@@ -32,4 +32,21 @@ master 2
 master 2
 master 2
 
+nova feature 1
+nova feature 1
+nova feature 1
+nova feature 1
+
+nova feature 2
+nova feature 2
+nova feature 2
+
+nova feature 3
+nova feature 3
+nova feature 3
+
+nova feature 4
+nova feature 4
+nova feature 4
+
 Trabalho do marcelo aqui para teste compartilhado, nao sei se entendeu alguma coisa mas e isso ae \0/
