@@ -1,6 +1,7 @@
 essa é uma linha
 essa é outra linha
 ainda outra linha
+outra linha diferente
 uma linha intrusa
 e outra
 outra linha
