@@ -19,3 +19,7 @@ adicao depois do almoco maste2 3
 depois do almoco 2 1
 depois do almoco 2 2
 depois do almoco 2 3
+
+adicao depois do almoco2 1
+adicao depois do almoco2 2
+adicao depois do almoco2 3
