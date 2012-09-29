@@ -1,8 +1,7 @@
 essa é uma linha
 essa é outra linha
 ainda outra linha
-outra linha diferente
-uma linha intrusa
+outra linha na quarta linha
 e outra
 outra linha
 
